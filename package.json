@@ -4,7 +4,8 @@
   "description": "![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Titter00/AdviceGenerator/issues"
   },
-  "homepage": "https://github.com/Titter00/AdviceGenerator#readme"
+  "homepage": "https://github.com/Titter00/AdviceGenerator#readme",
+  "dependencies": {
+    "parcel": "^2.8.0"
+  }
 }

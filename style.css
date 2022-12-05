@@ -20,6 +20,7 @@ body {
   max-width: 54rem;
   display: grid;
   grid: max-content 3.2rem / 1fr;
+  border-radius: 15px;
 }
 
 .advice-generator__output {
