@@ -3,7 +3,7 @@
 146C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\caniuse-lite\data\features\alternate-stylesheet.js133147293231489007 0
 126C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\yaml\browser\dist\parse-cst.js133147293230681172 0
 118C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\fs\src\find.js133147293223838456 0
-93C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\.gitignore133147288121477067 0
+93C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\.gitignore133147297617631732 0
 142C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE133147293219726417 0
 134C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\dom-serializer\lib\esm\foreignNames.js133147293220743699 0
 142C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\hash\parcel-hash.linux-arm64-musl.node133147293233919538 0
@@ -26,7 +26,7 @@
 113C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@msgpackr-extract133147293267345468 1
 145C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\htmlnano\lib\modules\minifyConditionalComments.js133147293229720808 0
 121C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\css-select\lib\index.d.ts133147293233349562 0
-87C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist133147293934968050 1
+87C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist133147298377267229 1
 127C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\workers\src\cpuCount.js133147293228447005 0
 125C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\source-map-support\LICENSE.md133147293225823153 0
 138C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\terser\node_modules\commander\CHANGELOG.md133147293224167577 0
@@ -103,7 +103,7 @@
 117C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\dotenv-expand\LICENSE133147293223808535 0
 116C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\type-fest\index.d.ts133147293229700857 0
 114C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\terser\lib\size.js133147293236755692 0
-92C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\style.css133116746304499559 0
+92C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\style.css133147298376968011 0
 116C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\weak-lru-cache\tests133147293225424230 1
 121C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\optimizer-css\src133147293221870696 1
 145C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133147293240585459 0
@@ -585,7 +585,7 @@
 127C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\lmdb\util\set-optional-deps.cjs133147293238650625 0
 137C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@swc\helpers\lib\_class_name_tdz_error.js133147293230611356 0
 136C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\hash\parcel-hash.darwin-x64.node133147293229730788 0
-110C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\index.3a01df49.css.map133147293934032293 0
+110C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\index.3a01df49.css.map133147298377257240 0
 137C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\svgo\plugins\addAttributesToSVGElement.js133147293226931052 0
 110C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\yaml\schema.js133147293234027758 0
 127C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\caniuse-lite\data\regions\CU.js133147293242490359 0
@@ -912,7 +912,7 @@
 132C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\css-what\lib\commonjs\parse.d.ts.map133147293228796065 0
 109C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\tslib\modules133147293225613707 1
 139C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\caniuse-lite\data\features\css-selection.js133147293242111383 0
-110C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\icon-dice.f002dde7.svg133147293934471116 0
+110C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\icon-dice.f002dde7.svg133147298293818365 0
 120C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\node-gyp-build\README.md133147293225912908 0
 126C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\msgpackr\dist\index.min.js.map133147293234695975 0
 144C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\caniuse-lite\data\features\css-math-functions.js133147293241632651 0
@@ -1622,7 +1622,7 @@
 126C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\nth-check\lib\esm\index.js.map133147293229441544 0
 123C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\node-gyp-build\package.json133147293225264653 0
 126C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\nth-check\lib\esm\parse.js.map133147293230159631 0
-125C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\advice-generator-app-main.3464ddca.js133147293934670586 0
+125C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\advice-generator-app-main.3464ddca.js133147298293339652 0
 144C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\caniuse-lite\data\features\css-initial-letter.js133147293241512970 0
 121C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\cosmiconfig\dist\index.js133147293226621015 0
 117C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\node-releases\LICENSE133147293219467108 0
@@ -3464,7 +3464,7 @@
 134C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\transformer-babel\src\types.js133147293230760959 0
 124C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\workers\package.json133147293235333048 0
 115C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\workers\src133147293235094896 1
-105C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\index.672d4772.js133147293934918464 0
+105C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\index.672d4772.js133147298293539121 0
 116C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\workers\test133147293235224551 1
 133C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\workers\test\cpuCount.test.js133147293228806040 0
 185C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up\foo133147293239977078 1
@@ -3610,7 +3610,7 @@
 142C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\transformer-postcss\src\loadPlugins.js133147293226242027 0
 149C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\transformer-postcss\src\PostCSSTransformer.js133147293227599269 0
 140C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\transformer-postcss\lib\constants.js133147293220614039 0
-123C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\pattern-divider-mobile.aa2d8f25.svg133147293933932558 0
+123C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\pattern-divider-mobile.aa2d8f25.svg133147298293210011 0
 141C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\transformer-postcss\lib\loadConfig.js133147293224217449 0
 135C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\optimizer-htmlnano\package.json133147293225803201 0
 142C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\@parcel\transformer-postcss\lib\loadPlugins.js133147293225713444 0
@@ -4173,11 +4173,11 @@
 109C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\.bin\svgo.ps1133147293254073971 0
 107C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\node_modules\.bin\terser133147293254173718 0
 103C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\images\icon-dice.svg133116708574407098 0
-129C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\advice-generator-app-main.3464ddca.js.map133147293934700512 0
-106C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\index.3a01df49.css133147293933932558 0
-109C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\index.672d4772.js.map133147293934958083 0
-98C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\index.html133147293934918464 0
-124C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\pattern-divider-desktop.56c7fa1a.svg133147293934580830 0
+129C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\advice-generator-app-main.3464ddca.js.map133147298293369578 0
+106C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\index.3a01df49.css133147298377237294 0
+109C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\index.672d4772.js.map133147298293628886 0
+98C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\index.html133147298293818365 0
+124C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\dist\pattern-divider-desktop.56c7fa1a.svg133147298293708662 0
 107C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\design\active-states.jpg133116708573475869 0
 108C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\design\desktop-design.jpg133116708573678231 0
 109C:\Users\olo_w\OneDrive\Dokumenty\Nauka\Front-End mentor\advice-generator-app-main\design\desktop-preview.jpg133116708573879783 0

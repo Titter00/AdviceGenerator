@@ -20,13 +20,13 @@ body {
 .advice-generator {
   width: 100%;
   max-width: 54rem;
-  border-radius: 15px;
   grid: max-content 3.2rem / 1fr;
   display: grid;
 }
 
 .advice-generator__output {
   background-color: #323a49;
+  border-radius: 10px;
   flex-flow: column;
   grid-area: 1 / 1 / 2 / 2;
   justify-content: center;
