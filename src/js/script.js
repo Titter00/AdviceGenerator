@@ -1,3 +1,6 @@
+import "core-js/stable";
+import "regenerator-runtime/runtime";
+
 const API_LINK = "https://api.adviceslip.com/advice";
 const adviceNumber = document.querySelector(".advice-generator__advice-number");
 const adviceText = document.querySelector(".advice-generator__quote");
