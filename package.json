@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Titter00/AdviceGenerator#readme",
   "dependencies": {
+    "@parcel/transformer-sass": "^2.8.0",
     "parcel": "^2.8.0"
   }
 }
